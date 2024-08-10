@@ -1,6 +1,3 @@
-//Riddhi Musale
-//Prn:23070123108
-//Exp 5 If else statement 
 #include <iostream>
 using namespace std;
 int main(){
