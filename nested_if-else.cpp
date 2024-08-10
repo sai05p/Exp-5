@@ -1,6 +1,4 @@
-//Riddhi Musale
-//Prn:23070123108
-//Exp 5  Nested if else statement 
+
 #include <iostream>
 using namespace std;
 
