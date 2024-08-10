@@ -1,6 +1,3 @@
-//Riddhi Musale
-//Prn:23070123108
-//Exp 5 default and break keyword
 #include <iostream>
 using namespace std;
 int main(){
