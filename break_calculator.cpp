@@ -1,6 +1,3 @@
-//Riddhi Musale
-//Prn:23070123108
-//Exp 5 calculator using break statement
 #include<iostream>
 using namespace std;
 
